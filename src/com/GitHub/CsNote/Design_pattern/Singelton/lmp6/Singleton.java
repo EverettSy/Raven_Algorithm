@@ -8,10 +8,10 @@
  * <author>          <time>          <version>          <desc>
  * 作者姓名           修改时间           版本号              描述
  */
-package com.GitHub.CsNote.Singelton.lmp6;
+package com.GitHub.CsNote.Design_pattern.Singelton.lmp6;
 
 /**
- * 〈一句话功能简述〉<br> 
+ * 〈单例模式〉
  * 〈Ⅵ 枚举实现〉
  *
  * @author Raven

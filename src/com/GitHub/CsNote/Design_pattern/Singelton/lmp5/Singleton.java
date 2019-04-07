@@ -8,10 +8,10 @@
  * <author>          <time>          <version>          <desc>
  * 作者姓名           修改时间           版本号              描述
  */
-package com.GitHub.CsNote.Singelton.lmp5;
+package com.GitHub.CsNote.Design_pattern.Singelton.lmp5;
 
 /**
- * 〈一句话功能简述〉<br> 
+ * 〈单例模式〉
  * 〈Ⅴ 静态内部类实现〉
  *
  *  >>> 当 Singleton 类加载时，静态内部类 SingletonHolder 没有被加载进内存。只有当调用 getUniqueInstance() 方法从而触发 SingletonHolder.INSTANCE 时 SingletonHolder 才会被加载，

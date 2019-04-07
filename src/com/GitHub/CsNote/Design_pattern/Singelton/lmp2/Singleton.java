@@ -8,10 +8,10 @@
  * <author>          <time>          <version>          <desc>
  * 作者姓名           修改时间           版本号              描述
  */
-package com.GitHub.CsNote.Singelton.lmp2;
+package com.GitHub.CsNote.Design_pattern.Singelton.lmp2;
 
 /**
- * 〈一句话功能简述〉<br> 
+ * 〈单例模式〉
  * 〈Ⅱ 饿汉式-线程安全〉
  *  >>> 线程不安全问题主要是由于uniquelnstance被实例化多次，
  *  采取直接实例化uniquelnstance不会产生线程不安全问题。

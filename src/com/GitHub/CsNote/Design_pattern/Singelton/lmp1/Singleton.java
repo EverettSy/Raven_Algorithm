@@ -8,10 +8,10 @@
  * <author>          <time>          <version>          <desc>
  * 作者姓名           修改时间           版本号              描述
  */
-package com.GitHub.CsNote.Singelton.lmp1;
+package com.GitHub.CsNote.Design_pattern.Singelton.lmp1;
 
 /**
- * 〈一句话功能简述〉<br>
+ * 〈单例模式〉
  * 〈Ⅰ 懒汉式-线程不安全〉
  *
  * >>> 这样实现，私有静态变量uniquelnstance被延迟实例化，这样做的好处是，

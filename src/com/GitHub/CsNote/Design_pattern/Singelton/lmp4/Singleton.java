@@ -8,10 +8,10 @@
  * <author>          <time>          <version>          <desc>
  * 作者姓名           修改时间           版本号              描述
  */
-package com.GitHub.CsNote.Singelton.lmp4;
+package com.GitHub.CsNote.Design_pattern.Singelton.lmp4;
 
 /**
- * 〈一句话功能简述〉<br>
+ * 〈单例模式〉
  * 〈Ⅳ 双重校验锁-线程安全〉
  *  >>> uniqueInstance 只需要被实例化一次，之后就可以直接使用了。加锁操作只需要对实例化那部分的代码进行，只有当 uniqueInstance 没有被实例化时，才需要进行加锁。
  *

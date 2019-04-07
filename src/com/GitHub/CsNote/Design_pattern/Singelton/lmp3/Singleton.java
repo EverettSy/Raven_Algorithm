@@ -8,10 +8,10 @@
  * <author>          <time>          <version>          <desc>
  * 作者姓名           修改时间           版本号              描述
  */
-package com.GitHub.CsNote.Singelton.lmp3;
+package com.GitHub.CsNote.Design_pattern.Singelton.lmp3;
 
 /**
- * 〈一句话功能简述〉<br> 
+ * 〈单例模式〉
  * 〈Ⅲ 懒汉式-线程安全〉
  *
  *  >>> 要实现懒汉式线程安全只需要对getUniqueInstance()加锁，
