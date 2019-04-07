@@ -10,8 +10,8 @@
  */
 package com.raven.company;
 
-        import java.util.LinkedList;
-        import java.util.List;
+import java.util.LinkedList;
+import java.util.List;
 
 /**
  * 〈一句话功能简述〉<br>
@@ -145,11 +145,11 @@ public class RedPacket {
 
     public static void main(String[] args) {
         RedPacket redPacket = new RedPacket();
-        List<Integer> redPackets = redPacket.splitRedPacket(20000,10);
+        List<Integer> redPackets = redPacket.splitRedPacket(20000, 10);
         System.out.println(redPackets);
 
         int sum = 0;
-        for (Integer red : redPackets){
+        for (Integer red : redPackets) {
             sum += red;
         }
         System.out.println(sum);
