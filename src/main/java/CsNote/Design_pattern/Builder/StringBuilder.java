@@ -10,8 +10,6 @@
  */
 package CsNote.Design_pattern.Builder;
 
-import CsNote.Design_pattern.Builder.AbstractStringBuilder;
-
 /**
  * 〈一句话功能简述〉<br>
  * 〈〉
