@@ -13,7 +13,7 @@ package com.javase.juc1;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * <<功能简述>>
+ * <<JUC线程高级_原子变量与 CAS 算法>>
  * 一、i++的原子性问题：i++的操作实际上分为三个步骤"读-改-写"
  *         int i = 10;
  *         i = i++;//10
